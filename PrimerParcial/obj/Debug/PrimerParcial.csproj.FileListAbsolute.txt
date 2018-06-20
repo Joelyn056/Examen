@@ -1,0 +1,85 @@
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Menu.resources
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Consultas.Consuntar.resources
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Registros.Registro.resources
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Primer Parcial Aplicada 1\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.dll
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.xml
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Menu.resources
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Consultas.Consuntar.resources
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Registros.Registro.resources
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+E:\Aplicada I\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Menu.resources
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Consultas.Consuntar.resources
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Registros.Registro.resources
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Menu.resources
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Consultas.Consultar.resources
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Registros.Registro.resources
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Menu.resources
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Consultas.Consultar.resources
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.UI.Registros.Registro.resources
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\User\Desktop\Primer Parcial Joelyn\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
